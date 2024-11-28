@@ -1,0 +1,12 @@
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.csproj.AssemblyReference.cache
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.Form1.resources
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.Properties.Resources.resources
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.csproj.GenerateResource.cache
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\bin\Debug\proyecto303.exe.config
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\bin\Debug\proyecto303.exe
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\bin\Debug\proyecto303.pdb
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.exe
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.pdb
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.IniciarSesion.resources
+C:\Users\sonia\OneDrive\Documentos\comision303\proyecto303\proyecto303\obj\Debug\proyecto303.Inicio.resources
